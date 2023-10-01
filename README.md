@@ -7,7 +7,7 @@ The ANOVA test is based on the null hypothesis that there is no significant diff
 
 ANOVA is widely used in various fields such as social sciences, biology, engineering, and business to compare means of different groups and to identify factors that may affect the variation between them.
 ## <span style="font-family:Broadway;">**Description of the Dataset**</span>
-A fast-food chain plans to add a new item to its menu. However, they are still undecided between three possiblemarketing campaigns for promoting the new product. In order to determine which promotion has the greatest effect on sales,the new item is introduced at locations in several randomly selected markets. A different promotion is used at each location and the weekly sales of the new item are recorded for the first four weeks
+A fast-food chain plans to add a new item to its menu. However, they are still undecided between three possible marketing campaigns for promoting the new product. In order to determine which promotion has the greatest effect on sales, the new item is introduced at locations in several randomly selected markets. A different promotion is used at each location and the weekly sales of the new item are recorded for the first four weeks
 ​
 **Columns** </br>
  **MarketID**: unique identifier for market</br>
